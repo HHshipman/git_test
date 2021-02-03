@@ -1,0 +1,1 @@
+This is Hershel's first git project
